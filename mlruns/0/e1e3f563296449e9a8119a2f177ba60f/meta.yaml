@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/e1e3f563296449e9a8119a2f177ba60f/artifacts
+end_time: 1681409283363
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e1e3f563296449e9a8119a2f177ba60f
+run_name: nervous-goat-573
+run_uuid: e1e3f563296449e9a8119a2f177ba60f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409279917
+status: 3
+tags: []
+user_id: roneknah

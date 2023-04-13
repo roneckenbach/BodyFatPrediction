@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/516aebb44ec648c6bbe68daddf6b85c4/artifacts
+end_time: 1681409255269
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 516aebb44ec648c6bbe68daddf6b85c4
+run_name: wise-wren-666
+run_uuid: 516aebb44ec648c6bbe68daddf6b85c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409251814
+status: 3
+tags: []
+user_id: roneknah

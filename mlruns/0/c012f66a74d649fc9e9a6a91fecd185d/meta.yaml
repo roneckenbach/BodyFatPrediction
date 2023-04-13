@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/c012f66a74d649fc9e9a6a91fecd185d/artifacts
+end_time: 1681409303935
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c012f66a74d649fc9e9a6a91fecd185d
+run_name: delicate-frog-624
+run_uuid: c012f66a74d649fc9e9a6a91fecd185d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409300476
+status: 3
+tags: []
+user_id: roneknah

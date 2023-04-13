@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/510ca60389924e32bf7c4d348fa3df8c/artifacts
+end_time: 1681409258639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 510ca60389924e32bf7c4d348fa3df8c
+run_name: nervous-bear-90
+run_uuid: 510ca60389924e32bf7c4d348fa3df8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409255274
+status: 3
+tags: []
+user_id: roneknah

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/6c8f9a113cfb4b12857bfa16d6b02947/artifacts
+end_time: 1681409279913
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c8f9a113cfb4b12857bfa16d6b02947
+run_name: thoughtful-colt-779
+run_uuid: 6c8f9a113cfb4b12857bfa16d6b02947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409276243
+status: 3
+tags: []
+user_id: roneknah

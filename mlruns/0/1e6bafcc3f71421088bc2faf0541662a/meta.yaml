@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/1e6bafcc3f71421088bc2faf0541662a/artifacts
+end_time: 1681409307370
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e6bafcc3f71421088bc2faf0541662a
+run_name: trusting-vole-222
+run_uuid: 1e6bafcc3f71421088bc2faf0541662a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409303939
+status: 3
+tags: []
+user_id: roneknah

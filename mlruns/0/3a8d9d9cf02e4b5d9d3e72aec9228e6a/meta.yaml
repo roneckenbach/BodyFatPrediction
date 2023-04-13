@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/3a8d9d9cf02e4b5d9d3e72aec9228e6a/artifacts
+end_time: 1681409231371
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a8d9d9cf02e4b5d9d3e72aec9228e6a
+run_name: vaunted-kit-954
+run_uuid: 3a8d9d9cf02e4b5d9d3e72aec9228e6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409228027
+status: 3
+tags: []
+user_id: roneknah

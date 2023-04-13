@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/22b36328eebc45c1b54420a7fb6c2305/artifacts
+end_time: 1681409241587
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22b36328eebc45c1b54420a7fb6c2305
+run_name: bald-chimp-558
+run_uuid: 22b36328eebc45c1b54420a7fb6c2305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409238105
+status: 3
+tags: []
+user_id: roneknah

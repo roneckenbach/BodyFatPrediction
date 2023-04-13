@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/59e43cb08b274d84aafb3ea1feddacc3/artifacts
+end_time: 1681409317737
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59e43cb08b274d84aafb3ea1feddacc3
+run_name: sneaky-whale-238
+run_uuid: 59e43cb08b274d84aafb3ea1feddacc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409314258
+status: 3
+tags: []
+user_id: roneknah

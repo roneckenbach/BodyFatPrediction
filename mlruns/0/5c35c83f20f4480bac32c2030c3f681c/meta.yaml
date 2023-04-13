@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/5c35c83f20f4480bac32c2030c3f681c/artifacts
+end_time: 1681409224636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5c35c83f20f4480bac32c2030c3f681c
+run_name: sneaky-mink-516
+run_uuid: 5c35c83f20f4480bac32c2030c3f681c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409219248
+status: 3
+tags: []
+user_id: roneknah

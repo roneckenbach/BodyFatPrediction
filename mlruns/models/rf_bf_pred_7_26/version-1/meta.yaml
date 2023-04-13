@@ -1,0 +1,12 @@
+creation_timestamp: 1681409588284
+current_stage: None
+description: ''
+last_updated_timestamp: 1681409588284
+name: rf_bf_pred_7_26
+run_id: c50266974485488aadaf1fe445bb5c8c
+run_link: ''
+source: file:///Users/roneknah/AML/mlruns/0/c50266974485488aadaf1fe445bb5c8c/artifacts/random_forest_model
+status: READY
+status_message: null
+user_id: null
+version: 1

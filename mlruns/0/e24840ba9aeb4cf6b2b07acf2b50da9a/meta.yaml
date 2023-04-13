@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/e24840ba9aeb4cf6b2b07acf2b50da9a/artifacts
+end_time: 1681409248321
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e24840ba9aeb4cf6b2b07acf2b50da9a
+run_name: incongruous-bird-277
+run_uuid: e24840ba9aeb4cf6b2b07acf2b50da9a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409244974
+status: 3
+tags: []
+user_id: roneknah

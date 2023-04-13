@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/c50266974485488aadaf1fe445bb5c8c/artifacts
+end_time: 1681409321169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c50266974485488aadaf1fe445bb5c8c
+run_name: amazing-wasp-88
+run_uuid: c50266974485488aadaf1fe445bb5c8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409317741
+status: 3
+tags: []
+user_id: roneknah

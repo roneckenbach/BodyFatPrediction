@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/774688f972904ecc86c44fade34c0111/artifacts
+end_time: 1681409324602
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 774688f972904ecc86c44fade34c0111
+run_name: clean-foal-699
+run_uuid: 774688f972904ecc86c44fade34c0111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409321173
+status: 3
+tags: []
+user_id: roneknah

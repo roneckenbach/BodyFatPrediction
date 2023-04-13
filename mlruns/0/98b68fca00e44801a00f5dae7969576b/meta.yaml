@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/98b68fca00e44801a00f5dae7969576b/artifacts
+end_time: 1681409293609
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98b68fca00e44801a00f5dae7969576b
+run_name: industrious-ape-827
+run_uuid: 98b68fca00e44801a00f5dae7969576b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409290191
+status: 3
+tags: []
+user_id: roneknah

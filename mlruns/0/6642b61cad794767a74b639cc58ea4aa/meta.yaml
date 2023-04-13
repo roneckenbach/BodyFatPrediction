@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/6642b61cad794767a74b639cc58ea4aa/artifacts
+end_time: 1681409265503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6642b61cad794767a74b639cc58ea4aa
+run_name: likeable-loon-861
+run_uuid: 6642b61cad794767a74b639cc58ea4aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409262005
+status: 3
+tags: []
+user_id: roneknah

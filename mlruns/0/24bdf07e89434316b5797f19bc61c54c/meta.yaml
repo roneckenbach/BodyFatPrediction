@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/24bdf07e89434316b5797f19bc61c54c/artifacts
+end_time: 1681409290186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 24bdf07e89434316b5797f19bc61c54c
+run_name: intelligent-hare-169
+run_uuid: 24bdf07e89434316b5797f19bc61c54c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409286788
+status: 3
+tags: []
+user_id: roneknah

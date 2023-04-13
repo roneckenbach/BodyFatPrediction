@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/roneknah/AML/mlruns/0/6b111c8582a242abbfc6129356409630/artifacts
+end_time: 1681409272441
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b111c8582a242abbfc6129356409630
+run_name: bald-worm-353
+run_uuid: 6b111c8582a242abbfc6129356409630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1681409268858
+status: 3
+tags: []
+user_id: roneknah
